@@ -42,7 +42,7 @@
     "lodash.every": "^4.6.0",
     "lodash.pick": "^4.4.0",
     "lodash.values": "^4.3.0",
-    "mmp-react-native-card-flip": "^1.0.7",
+    "mmp-react-native-card-flip": "git+https://github.com/calebmcelroy/react-native-card-flip.git",
     "prop-types": "^15.6.0"
   },
   "devDependencies": {
